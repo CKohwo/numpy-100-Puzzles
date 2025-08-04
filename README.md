@@ -1,5 +1,16 @@
 ## 100 numpy exercises
 
+## 🚀 About This Fork
+
+This fork is part of my personal initiative to master NumPy through practical problem-solving. The original repo by @rougier offers 100 curated NumPy exercises — I’m documenting my learning, solutions, and custom insights here to build deep fluency in numerical Python.
+
+If you're on a similar journey, feel free to follow along or contribute.
+
+→ My solutions are stored in the `charles-solutions/` directory.
+→ This repo is meant for **learning, exploration, and skill refinement** — not competition.
+
+> “Repetition doesn’t just build skill — it engrains instinct.” – Me
+
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
 
 This is a collection of numpy exercises from numpy mailing list, stack overflow, and numpy documentation. I've also created some problems myself to reach the 100 limit. The goal of this collection is to offer a quick reference for both old and new users but also to provide a set of exercises for those who teach. For extended exercises, make sure to read [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/).
